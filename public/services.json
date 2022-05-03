@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "oil change",
+        "price": "100",
+        "description": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis ut doloremque illum repudiandae officia explicabo molestias fugit expedita. Hic, ad.",
+        "img": "https://i.ibb.co/hCjznTj/nina-mercado-Y-t0n-T4-H5-M-unsplash.png"
+    },
+    {
+        "id": 2,
+        "name": "oil change",
+        "price": "100",
+        "description": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis ut doloremque illum repudiandae officia explicabo molestias fugit expedita. Hic, ad.",
+        "img": "https://i.ibb.co/hCjznTj/nina-mercado-Y-t0n-T4-H5-M-unsplash.png"
+    },
+    {
+        "id": 3,
+        "name": "oil change",
+        "price": "100",
+        "description": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis ut doloremque illum repudiandae officia explicabo molestias fugit expedita. Hic, ad.",
+        "img": "https://i.ibb.co/hCjznTj/nina-mercado-Y-t0n-T4-H5-M-unsplash.png"
+    },
+    {
+        "id": 4,
+        "name": "oil change",
+        "price": "100",
+        "description": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis ut doloremque illum repudiandae officia explicabo molestias fugit expedita. Hic, ad.",
+        "img": "https://i.ibb.co/hCjznTj/nina-mercado-Y-t0n-T4-H5-M-unsplash.png"
+    },
+    {
+        "id": 5,
+        "name": "oil change",
+        "price": "100",
+        "description": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis ut doloremque illum repudiandae officia explicabo molestias fugit expedita. Hic, ad.",
+        "img": "https://i.ibb.co/hCjznTj/nina-mercado-Y-t0n-T4-H5-M-unsplash.png"
+    },
+    {
+        "id": 6,
+        "name": "oil change",
+        "price": "100",
+        "description": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis ut doloremque illum repudiandae officia explicabo molestias fugit expedita. Hic, ad.",
+        "img": "https://i.ibb.co/hCjznTj/nina-mercado-Y-t0n-T4-H5-M-unsplash.png"
+    },
+    {
+        "id": 7,
+        "name": "oil change",
+        "price": "100",
+        "description": "  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perspiciatis ut doloremque illum repudiandae officia explicabo molestias fugit expedita. Hic, ad.",
+        "img": "https://i.ibb.co/hCjznTj/nina-mercado-Y-t0n-T4-H5-M-unsplash.png"
+    }
+]
